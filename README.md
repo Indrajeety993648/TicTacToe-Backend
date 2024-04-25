@@ -5,7 +5,9 @@ This is a simple implementation of the classic TIC TAC TOE game in Java. The gam
 
 Features🔥 :-
 
-Two-player gameplay: Allows two human players to take turns playing against each other.
+Two-player gameplay: 
+
+Allows two human players to take turns playing against each other.
 Simple graphical user interface: Provides a basic GUI for players to interact with the game.
 Win detection: Automatically detects when a player has won the game and displays a message accordingly.
 Draw detection: Recognizes when the game ends in a draw (i.e., when the grid is full and no player has won).
